@@ -1,5 +1,25 @@
 {
-  "dependencies": {
+  "name": "medisys-components",
+  "version": "0.1.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.esm.js",
+  "unpkg": "./dist",
+  "scripts": {
+    "doc:dev": "father doc dev",
+    "doc:build": "father doc build",
+    "doc:deploy": "father doc deploy",
+    "build": "father build"
+  },
+  "devDependencies": {
     "father": "^2.29.11"
-  }
+  },
+  "dependencies": {
+    "classnames": "^2.2.6"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "files": [
+    "dist"
+  ]
 }
