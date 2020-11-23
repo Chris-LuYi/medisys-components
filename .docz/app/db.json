@@ -1,0 +1,25 @@
+{
+  "config": {
+    "title": "My Doc",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": false,
+    "theme": "D:/Projects/medisys-components-father/node_modules/docz-theme-umi/es/index.js",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "props": [],
+  "entries": []
+}
