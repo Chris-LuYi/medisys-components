@@ -11,6 +11,7 @@
     "separator": "-",
     "typescript": false,
     "theme": "D:/Projects/medisys-components-father/node_modules/docz-theme-umi/es/index.js",
+    "base": "/medisys-components",
     "plugins": [
       {},
       {},
@@ -27,7 +28,7 @@
       "key": "src/index.mdx",
       "value": {
         "name": "Button",
-        "route": "/",
+        "route": "/medisys-components/",
         "id": "6576455a124f9aaefd860597f03a8fe4",
         "filepath": "src/index.mdx",
         "link": "",

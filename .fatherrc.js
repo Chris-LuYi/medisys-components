@@ -12,4 +12,8 @@ export default {
       react: "React",
     },
   },
+  doc: {
+    // themeConfig: { mode: "dark" },
+    base: "/medisys-components",
+  },
 };

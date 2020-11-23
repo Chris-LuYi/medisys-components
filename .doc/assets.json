@@ -1,8 +1,8 @@
 {
-  "vendors.css": "/static/css/vendors.48b1792e45bfebff28ee.css",
-  "vendors.js": "/static/js/vendors.b3570c35.js",
-  "app.js": "/static/js/app.48b1792e45bfebff28ee.js",
-  "src-index.css": "/static/css/src-index.48b1792e45bfebff28ee.css",
-  "src-index.js": "/static/js/src-index.a4a35ea2.js",
-  "index.html": "/index.html"
+  "vendors.css": "/medisys-components/static/css/vendors.f441afdeb6543eec8645.css",
+  "vendors.js": "/medisys-components/static/js/vendors.da8daf9e.js",
+  "app.js": "/medisys-components/static/js/app.f441afdeb6543eec8645.js",
+  "src-index.css": "/medisys-components/static/css/src-index.f441afdeb6543eec8645.css",
+  "src-index.js": "/medisys-components/static/js/src-index.e4af29ee.js",
+  "index.html": "/medisys-components/index.html"
 }
